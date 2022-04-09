@@ -1,0 +1,12 @@
+.have-fun {
+  padding: 100px;
+  text-align: center;
+}
+
+.have-fun img {
+  width: 280px;
+}
+
+.have-fun span {
+  font-weight: bold;
+}
